@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Cucumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JUnit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SeleniumGiris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestNg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.Batch59Cucumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.Batch59JUnit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.Batch59Selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.TestNg_Batch59" vcs="Git" />
+  </component>
+</project>
